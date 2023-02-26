@@ -8,4 +8,6 @@ git clone https://github.com/G00G13D04K/shorter.git
 
 cd shorter
 
+pip install-r requirements.txt
+
 python shorter.py
